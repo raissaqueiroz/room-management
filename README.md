@@ -3,14 +3,14 @@ API em Dotnet de Gerenciamento de Móveis em uma Sala.
 
 ## Tecnologias 
 
-- [ ] ASP .NET Core
-- [ ] ORM: Entity Framework
-- [ ] Validações com Fluent Validations
-- [ ] Design Pattern: DDD
-- [ ] Orientação a Objetos
-- [ ] Linguagem C#
-- [ ] TDD com MOQ e XUnit
-- [ ] Documentação API: Swagger
+- [x] ASP .NET Core
+- [x] ORM: Entity Framework
+- [x] Validações com Fluent Validations
+- [x] Design Pattern: DDD
+- [x] Orientação a Objetos
+- [x] Linguagem C#
+- [x] TDD com MOQ e XUnit
+- [x] Documentação API: Swagger
 
 ## Funcionalidades
 
