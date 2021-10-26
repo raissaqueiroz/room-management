@@ -9,19 +9,17 @@ API em Dotnet de Gerenciamento de Móveis em uma Sala.
 - [x] Design Pattern: DDD
 - [x] Orientação a Objetos
 - [x] Linguagem C#
-- [x] TDD com MOQ e XUnit
-- [x] Documentação API: Swagger
+- [ ] TDD com MOQ e XUnit
+- [ ] Documentação API: Swagger
 
 ## Funcionalidades
 
 - [ ] Cadastro de Salas
 - [ ] Edição de Sala
 - [ ] Listagem de Sala
-
 - [ ] Cadastro de Mòveis
 - [ ] Edição de Móveis
 - [ ] Listagem de Móveis
-
 - [ ] Alocar Móvel em uma Sala
 - [ ] Deslocar Móvel em uma Sala
 
