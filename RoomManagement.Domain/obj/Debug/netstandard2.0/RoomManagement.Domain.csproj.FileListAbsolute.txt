@@ -1,0 +1,9 @@
+C:\Users\Raissa\Desktop\apps\csharp-projects\RoomManagement\RoomManagement.Domain\obj\Debug\netstandard2.0\RoomManagement.Domain.csprojAssemblyReference.cache
+C:\Users\Raissa\Desktop\apps\csharp-projects\RoomManagement\RoomManagement.Domain\obj\Debug\netstandard2.0\RoomManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Raissa\Desktop\apps\csharp-projects\RoomManagement\RoomManagement.Domain\obj\Debug\netstandard2.0\RoomManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Raissa\Desktop\apps\csharp-projects\RoomManagement\RoomManagement.Domain\obj\Debug\netstandard2.0\RoomManagement.Domain.AssemblyInfo.cs
+C:\Users\Raissa\Desktop\apps\csharp-projects\RoomManagement\RoomManagement.Domain\bin\Debug\netstandard2.0\RoomManagement.Domain.deps.json
+C:\Users\Raissa\Desktop\apps\csharp-projects\RoomManagement\RoomManagement.Domain\bin\Debug\netstandard2.0\RoomManagement.Domain.dll
+C:\Users\Raissa\Desktop\apps\csharp-projects\RoomManagement\RoomManagement.Domain\bin\Debug\netstandard2.0\RoomManagement.Domain.pdb
+C:\Users\Raissa\Desktop\apps\csharp-projects\RoomManagement\RoomManagement.Domain\obj\Debug\netstandard2.0\RoomManagement.Domain.dll
+C:\Users\Raissa\Desktop\apps\csharp-projects\RoomManagement\RoomManagement.Domain\obj\Debug\netstandard2.0\RoomManagement.Domain.pdb
